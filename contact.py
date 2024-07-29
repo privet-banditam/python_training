@@ -1,4 +1,4 @@
-class Contact
+class Contact:
 
     def __init__(self, fname, mname, lname, nname, title, company, address, home, email):
         self.fname = fname
